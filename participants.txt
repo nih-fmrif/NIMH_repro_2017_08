@@ -1,4 +1,4 @@
- 'dyl****son@nih.gov', nielsond, shotgunosine,
+ 'dyl****son@nih.gov', Dylan Nielson nielsond, shotgunosine,
  'Emi****inn@nih.gov',
  'Pet****ese@nih.gov',
  'abd****dil@nih.gov',
