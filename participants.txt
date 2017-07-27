@@ -22,7 +22,7 @@
  'mar****art@nih.gov',
  'mar****ett@nih.gov',
  'mic****nte@nih.gov',
- 'mic****rk3@nih.gov',
+ 'mic****rk3@nih.gov', Michael Clark, clarkmg (NIH HPC), mgclark (GitHub)
  'min****yoo@mail.nih.gov',
  'nin****ili@nih.gov', Nino Migineishvili, migineishvilin2, niniko1997
  'noa****erg@nih.gov',
