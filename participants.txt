@@ -14,7 +14,7 @@
  'han****erd@mail.nih.gov', Daniel Handwerker, handwerkerd, handwerkerd
  'ing****olm@nih.gov',
  'jan****ada@nih.gov', Jan Varada, varadajc, jvarada,
- 'jen****ans@nih.gov',
+ 'jen****ans@nih.gov', Jen Evans, evansjw, jwe080,
  'jia****al2@mail.nih.gov',
  'jon****lee@nih.gov',
  'kim****hsr@nih.gov',
