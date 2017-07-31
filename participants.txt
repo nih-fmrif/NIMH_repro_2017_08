@@ -9,7 +9,7 @@
  'ays****han@nih.gov',
  'ben****ung@nih.gov',
  'chr****ano@nih.gov',
- 'duk****ivo@gmail.com',
+ 'duk****ivo@gmail.com', Kevin Darby, guestaccount, kpdarby
  'fla****nde@nih.gov',
  'han****erd@mail.nih.gov', Daniel Handwerker, handwerkerd, handwerkerd
  'ing****olm@nih.gov',
@@ -19,7 +19,7 @@
  'jon****lee@nih.gov',
  'kim****hsr@nih.gov',
  'lip****hou@nih.gov',
- 'mar****art@nih.gov', 
+ 'mar****art@nih.gov',
  'mar****ett@nih.gov', Sean Marrett, marretts, neuropet
  'mic****nte@nih.gov',
  'mic****rk3@nih.gov', Michael Clark, clarkmg (NIH HPC), mgclark (GitHub)
