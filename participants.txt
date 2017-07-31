@@ -11,7 +11,7 @@
  'chr****ano@nih.gov',
  'duk****ivo@gmail.com',
  'fla****nde@nih.gov',
- 'han****erd@mail.nih.gov', handwerkerd, handwerkerd
+ 'han****erd@mail.nih.gov', Daniel Handwerker, handwerkerd, handwerkerd
  'ing****olm@nih.gov',
  'jan****ada@nih.gov',
  'jen****ans@nih.gov',
