@@ -10,7 +10,7 @@
  'ben****ung@nih.gov',
  'chr****ano@nih.gov',
  'duk****ivo@gmail.com', Kevin Darby, guestaccount, kpdarby
- 'fla****nde@nih.gov',
+ 'fla****nde@nih.gov', Francois Lalonde, flalonde, flalonde
  'han****erd@mail.nih.gov', Daniel Handwerker, handwerkerd, handwerkerd
  'ing****olm@nih.gov',
  'jan****ada@nih.gov', Jan Varada, varadajc, jvarada,
