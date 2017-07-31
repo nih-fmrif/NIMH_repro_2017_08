@@ -1,6 +1,6 @@
  'dyl****son@nih.gov', Dylan Nielson, nielsond, shotgunosine,
  'Emi****inn@nih.gov',
- 'Pet****ese@nih.gov',
+ 'Pet****ese@nih.gov', Peter Molfese, molfesepj, pmolfese
  'abd****dil@nih.gov',
  'aku****lan@mail.nih.gov',
  'ana****cio@nih.gov',
