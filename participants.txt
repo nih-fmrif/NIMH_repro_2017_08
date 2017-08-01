@@ -28,7 +28,7 @@
  'noa****erg@nih.gov',
  'pma****333@gmail.com',
  'rai****mar@nih.gov',
- 'rey****ldr@mail.nih.gov',
+ 'rey****ldr@mail.nih.gov', Rick Reynolds, reynoldr, afni-rickr
  'rez****zam@nih.gov',
  'rur****@georgetown.edu',
  'sam****lla@nih.gov', Samantha Sevilla, guestaccount, slsevilla, 10134
