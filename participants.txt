@@ -39,7 +39,7 @@
  'vm4****@georgetown.edu', Veronica Mucciarone, guestaccount, vmooch, 10139
  'wei****.li@nih.gov',
  'xue****hou@nih.gov',
- 'yan****ang@nih.gov',
+ 'yan****ang@nih.gov', Yanqin Yang, yangy10, yangy10
  'zol****ckb@mail.nih.gov',
  'dal****ou@nih.gov', Dale Zhou, zhoud4, dalejn, 10144
  'zol****ckb@mail.nih.gov', Brad Zoltick, zoltickb, bzoltick, 10145
