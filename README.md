@@ -39,7 +39,7 @@ Satra gave us a live demo of using [Heudiconv](https://github.com/nipy/heudiconv
 [Learn Python with Code Academy](https://www.codecademy.com/learn/python)  
 [NeuroDocker](https://github.com/kaczmarj/neurodocker)  
 [DataLad](http://datalad.org/)  
-NIMH DSST's Heudiconv scripts(link coming soon)
+NIMH DSST's Heudiconv scripts(link coming soon)  
 [Nipype Github](https://github.com/nipy/nipype)  
 [Nipype Tutorials](https://djarecka.github.io/nipype_tutorial/)  
 [Nipype Documentation](https://nipype.readthedocs.io/en/latest/)  
