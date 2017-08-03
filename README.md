@@ -11,7 +11,7 @@ MIT | Dartmouth | [NIH HPC Team](http://hpc.nih.gov/) | [NIH HPC Team](http://hp
 
 ### Tuesday Morning
 Adam opened the course with a presentation on the [reasons for doing open, reproducible science](materials/ReproCourseIntro_Aug.pdf).  
-John led the [setup of our working environment for the course](https://docs.google.com/document/d/11Byl0wZ5FSqaj3lhMPlDmwaFUP-xQ8Cm8EgNEaBjmgw/edit?usp=sharing).  
+John led the [setup of our working environment for the course](materials/course_setup.ipynb).  
 Wolfgang and Afif led an interactive session on singularity containers: [Slides](https://hpc.nih.gov/training/handouts/170801_singularity.svg#1_0), [Demo Readme](https://hpc.nih.gov/training/handouts/170801_singularity_demo.html).  
 John presented a [Git refresher]().
 
