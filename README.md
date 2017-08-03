@@ -40,15 +40,12 @@ Satra gave us a live demo of using [Heudiconv](https://github.com/nipy/heudiconv
 [NeuroDocker](https://github.com/kaczmarj/neurodocker)  
 [DataLad](http://datalad.org/)  
 NIMH DSST's Heudiconv scripts(link coming soon)
-
-### Nipype:
 [Nipype Github](https://github.com/nipy/nipype)  
 [Nipype Tutorials](https://djarecka.github.io/nipype_tutorial/)  
 [Nipype Documentation](https://nipype.readthedocs.io/en/latest/)  
-
-#### Nipype Apps:
+**Nipype Apps**  
 [Mindboggle](https://mindboggle.readthedocs.io/en/latest/)  
-[Configurable Pipeline for the Analysis of Connectomes](https://fcp-indi.github.io/)  
+[Configurable Pipeline for the Analysis of Connectomes](https://fcp-indi.github.io/)  
 [FMRI Prep](https://fmriprep.readthedocs.io/en/stable/index.html)   
 [MRIQC](https://mriqc.readthedocs.io/en/stable/)
 
