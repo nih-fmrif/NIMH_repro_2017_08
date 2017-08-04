@@ -1,5 +1,6 @@
 # NIMH Reproducibility Workshop, August 2017
-Repository for the NIMH Workshop on Open and Reproducible Neuroscience on Aug 1 &amp; 2, 2017
+Repository for the NIMH Workshop on Open and Reproducible Neuroscience on Aug 1 &amp; 2, 2017.  
+![Full house at the Reproducibility Workshop](images/workshop.jpg)  
 Many thanks to everyone who helped make this workshop possible and to everyone who attended.
 ## Course Leads and Guests Speakers:
 ![Satra](images/satra-ghosh.jpg) | ![Yarik](images/yarik-halchenko.jpg) | ![Wolfgang](images/wolfgang-resch.jpg) | ![Afif](images/afif-elghraoui.jpg) | ![Adam](images/adam-thomas.jpg) | ![John](images/john-lee.jpg) | ![Dylan](images/dylan-nielson.jpg)
