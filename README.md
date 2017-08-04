@@ -1,5 +1,6 @@
 # NIMH Reproducibility Workshop, August 2017
-Repository for the NIMH Workshop on Open and Reproducible Neuroscience on Aug 1 &amp; 2, 2017
+Repository for the NIMH Workshop on Open and Reproducible Neuroscience on Aug 1 &amp; 2, 2017.  
+![Full house at the Reproducibility Workshop](images/workshop.jpg)  
 Many thanks to everyone who helped make this workshop possible and to everyone who attended.
 ## Course Leads and Guests Speakers:
 ![Satra](images/satra-ghosh.jpg) | ![Yarik](images/yarik-halchenko.jpg) | ![Wolfgang](images/wolfgang-resch.jpg) | ![Afif](images/afif-elghraoui.jpg) | ![Adam](images/adam-thomas.jpg) | ![John](images/john-lee.jpg) | ![Dylan](images/dylan-nielson.jpg)
@@ -19,7 +20,7 @@ John presented a [Git refresher]().
 
 ### Tuesday Afternoon
 
-Yarik told everyone about [DataLad](http://datalad.org/) and walked us through a demo of using DataLad to manage datasets with [git-annex](https://git-annex.branchable.com/).  
+Yarik told everyone about [DataLad](http://datalad.org/) and [walked us through a demo of using DataLad](/materials/repro2017-datalad-Halchenko.pdf) to manage datasets with [git-annex](https://git-annex.branchable.com/).  
 Closing out the Tuesday, Dylan walked everyone through the first half of [Nipype's Python Tutorial](https://djarecka.github.io/nipype_tutorial/notebooks/introduction_python.html).
 
 ### Wednesday Morning
