@@ -17,7 +17,7 @@ John presented a [Git refresher]().
 
 ### Tuesday Afternoon
 
-Yarik told everyone about [DataLad](http://datalad.org/) and walked us through a demo of using DataLad to manage datasets with [git-annex](https://git-annex.branchable.com/).  
+Yarik told everyone about [DataLad](http://datalad.org/) and [walked us through a demo of using DataLad](/materials/repro2017-datalad-Halchenko.pdf) to manage datasets with [git-annex](https://git-annex.branchable.com/).  
 Closing out the Tuesday, Dylan walked everyone through the first half of [Nipype's Python Tutorial](https://djarecka.github.io/nipype_tutorial/notebooks/introduction_python.html).
 
 ### Wednesday Morning
