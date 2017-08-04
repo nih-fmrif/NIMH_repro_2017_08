@@ -9,6 +9,8 @@ MIT | Dartmouth | [NIH HPC Team](http://hpc.nih.gov/) | [NIH HPC Team](http://hp
 
 ## Workshop contents
 
+Persistent location for the singularity image used in this workshop: "/data/classes/RepNeurSci/images/nih-workshop-2017-latest.img" on NIH hpc systems. Alternatively, you can build the image yourself by following the instructions at the end of the course [scratchpad](https://docs.google.com/document/d/1jqSoF5R3G355cn8u5yxx6hcl1Vu_NbLMe8wMurQjcqE/edit?usp=sharing)
+
 ### Tuesday Morning
 Adam opened the course with a presentation on the [reasons for doing open, reproducible science](materials/ReproCourseIntro_Aug.pdf).  
 John led the [setup of our working environment for the course](materials/course_setup.ipynb).  
@@ -39,7 +41,7 @@ Satra gave us a live demo of using [Heudiconv](https://github.com/nipy/heudiconv
 [Learn Python with Code Academy](https://www.codecademy.com/learn/python)  
 [NeuroDocker](https://github.com/kaczmarj/neurodocker)  
 [DataLad](http://datalad.org/)  
-NIMH DSST's Heudiconv scripts(link coming soon)  
+NIMH DSST's Heudiconv scripts(link coming soon)
 [Nipype Github](https://github.com/nipy/nipype)  
 [Nipype Tutorials](https://djarecka.github.io/nipype_tutorial/)  
 [Nipype Documentation](https://nipype.readthedocs.io/en/latest/)  
