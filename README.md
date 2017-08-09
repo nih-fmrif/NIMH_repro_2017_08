@@ -50,7 +50,8 @@ NIMH DSST's Heudiconv scripts(link coming soon)
 [Mindboggle](https://mindboggle.readthedocs.io/en/latest/)  
 [Configurable Pipeline for the Analysis of Connectomes](https://fcp-indi.github.io/)  
 [FMRI Prep](https://fmriprep.readthedocs.io/en/stable/index.html)   
-[MRIQC](https://mriqc.readthedocs.io/en/stable/)
+[MRIQC](https://mriqc.readthedocs.io/en/stable/)  
+[heudiconv example](https://github.com/leej3/heudiconv_examples)
 
 
 
