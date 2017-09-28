@@ -35,7 +35,7 @@ Satra gave us a live demo of using [Heudiconv](https://github.com/nipy/heudiconv
 ## Other links
 
 [Workshop scratch pad](https://docs.google.com/document/d/1jqSoF5R3G355cn8u5yxx6hcl1Vu_NbLMe8wMurQjcqE/edit?usp=sharing)  
-[Workshop setup instructions](https://docs.google.com/document/d/11Byl0wZ5FSqaj3lhMPlDmwaFUP-xQ8Cm8EgNEaBjmgw/edit?usp=sharing)  
+[Workshop setup instructions](https://docs.google.com/document/d/11Byl0wZ5FSqaj3lhMPlDmwaFUP-xQ8Cm8EgNEaBjmgw/edit?usp=sharing). For a newer version of this see [here](https://github.com/nih-fmrif/NIMH_repro_2017_08/blob/master/materials/course_setup.ipynb).   
 [Ask questions on NeuroStars](https://neurostars.org)  
 [Join the Brainhack community on Slack](https://brainhack-slack-invite.herokuapp.com/) or look through the [archives](https://brainhack.slackarchive.io/general/)  
 [Learn Git game](learngitbranching.js.org)  
